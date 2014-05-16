@@ -1,0 +1,4 @@
+waws-cd-github
+==============
+
+CoreAzure
